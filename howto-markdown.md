@@ -106,8 +106,10 @@ Link : [google](https://google.com)
 >\**double asterisks**   
 >\_\_double underscores__   
 >\~\~cancelline~~
+\${\textsf{\color{green}Green}}$
 
 
+${\textsf{\color{green}Green}}$
 *single asterisks*   
 _single underscores_   
 **double asterisks**   
